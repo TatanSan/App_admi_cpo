@@ -1,0 +1,1 @@
+ C:\\Users\\Genbu\\Desktop\\admi_cpo\\.dart_tool\\flutter_build\\d52746034741171085de22b3dc528359\\native_assets.yaml: 

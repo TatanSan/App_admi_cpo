@@ -1,0 +1,35 @@
+name: admi_cpo
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  mailer: ^4.0.0
+  firebase_auth: ^4.4.0
+  firebase_core: ^2.5.0
+  logger: ^1.0.0
+  cloud_firestore: ^4.17.0
+  cupertino_icons: ^1.0.6
+  shared_preferences: ^2.0.8
+  flutter_local_notifications: ^9.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/Fachada.jpg
+    - assets/logo_y_nombre_cpo.png
+    - assets/banner0.jpg
+    - assets/banner1.jpg
+    - assets/banner2.jpg
