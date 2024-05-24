@@ -17,12 +17,11 @@ class AdminScreen extends StatefulWidget {
 
 class _AdminScreenState extends State<AdminScreen> {
   final TextEditingController _searchController = TextEditingController();
-  final String twilioAccountSid =
-      'ACc2a89f69a65c937e2d85afcba9ca90bf'; // Tu SID de Twilio
+  final String twilioAccountSid = 'tu twilio id'; // Tu SID de Twilio
   final String twilioAuthToken =
-      'b411f424e16ed7e8c335537a7a0db45f'; // Tu token de autenticación de Twilio
+      'tu twilio authtoken'; // Tu token de autenticación de Twilio
   final String twilioPhoneNumber =
-      '+12602339577'; // Tu número de teléfono Twilio
+      'tuTwiliophonenumber'; // Tu número de teléfono Twilio
   final String sendgridApiKey = 'your_sendgrid_api_key';
 
   Future<void> _sendEmail(

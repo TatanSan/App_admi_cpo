@@ -28,48 +28,48 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCXh-trLNHmShwFIhA1A6wxRJaRI5GLUyc',
-    appId: '1:386337423848:web:af27b9e05431265b23a45d',
-    messagingSenderId: '386337423848',
+    apiKey: 'Tu apikey',
+    appId: 'Tu appid',
+    messagingSenderId: 'tu messanginsenderid',
     projectId: 'admi-cpo',
-    authDomain: 'admi-cpo.firebaseapp.com',
-    storageBucket: 'admi-cpo.appspot.com',
-    measurementId: 'G-2H7LG5HS2E',
+    authDomain: 'tu authdomain',
+    storageBucket: 'tu storagebucket',
+    measurementId: 'tu measurementID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDJi-6QePkRd9p10Ck1QCCSZwuHMkyGspI',
-    appId: '1:386337423848:android:746e2759f300026423a45d',
-    messagingSenderId: '386337423848',
-    projectId: 'admi-cpo',
-    storageBucket: 'admi-cpo.appspot.com',
+    apiKey: 'Tu apikey',
+    appId: 'Tu appid',
+    messagingSenderId: 'tu messanginsenderid',
+    projectId: 'tu projectID',
+    storageBucket: 'tu storagebucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDevlI5tvM6Lm4G9A5pX7ujINDnK1hPzcA',
-    appId: '1:386337423848:ios:8212d665c420673f23a45d',
-    messagingSenderId: '386337423848',
-    projectId: 'admi-cpo',
-    storageBucket: 'admi-cpo.appspot.com',
+    apiKey: 'Tu apikey',
+    appId: 'Tu appid',
+    messagingSenderId: 'tu messanginsenderid',
+    projectId: 'tu projectID',
+    storageBucket: 'tu storagebucket',
     iosBundleId: 'com.example.admiCpo',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDevlI5tvM6Lm4G9A5pX7ujINDnK1hPzcA',
-    appId: '1:386337423848:ios:8212d665c420673f23a45d',
-    messagingSenderId: '386337423848',
-    projectId: 'admi-cpo',
-    storageBucket: 'admi-cpo.appspot.com',
+    apiKey: 'Tu apikey',
+    appId: 'Tu appid',
+    messagingSenderId: 'tu messanginsenderid',
+    projectId: 'tu projectID',
+    storageBucket: 'tu storagebucket',
     iosBundleId: 'com.example.admiCpo',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCXh-trLNHmShwFIhA1A6wxRJaRI5GLUyc',
-    appId: '1:386337423848:web:198a0256affb282823a45d',
-    messagingSenderId: '386337423848',
-    projectId: 'admi-cpo',
-    authDomain: 'admi-cpo.firebaseapp.com',
-    storageBucket: 'admi-cpo.appspot.com',
-    measurementId: 'G-W8PN1FWFGT',
+    apiKey: 'Tu apikey',
+    appId: 'Tu appid',
+    messagingSenderId: 'tu messanginsenderid',
+    projectId: 'tu projectID',
+    authDomain: 'tu authdomain',
+    storageBucket: 'tu storagebucket',
+    measurementId: 'tu measurementID',
   );
 }
