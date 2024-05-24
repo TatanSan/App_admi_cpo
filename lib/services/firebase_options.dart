@@ -31,7 +31,7 @@ class DefaultFirebaseOptions {
     apiKey: 'Tu apikey',
     appId: 'Tu appid',
     messagingSenderId: 'tu messanginsenderid',
-    projectId: 'admi-cpo',
+    projectId: 'tu projectID',
     authDomain: 'tu authdomain',
     storageBucket: 'tu storagebucket',
     measurementId: 'tu measurementID',

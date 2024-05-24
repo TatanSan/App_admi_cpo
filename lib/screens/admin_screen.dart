@@ -17,7 +17,7 @@ class AdminScreen extends StatefulWidget {
 
 class _AdminScreenState extends State<AdminScreen> {
   final TextEditingController _searchController = TextEditingController();
-  final String twilioAccountSid = 'tu twilio id'; // Tu SID de Twilio
+  final String twilioAccountSid = ''; // Tu SID de Twilio
   final String twilioAuthToken =
       'tu twilio authtoken'; // Tu token de autenticación de Twilio
   final String twilioPhoneNumber =
